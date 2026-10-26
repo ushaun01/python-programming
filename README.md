@@ -1,6 +1,6 @@
 🐍 Python Practice for Automation Testing
 
-This repository contains a collection of Python programs developed during my learning journey as an **Automation Tester**.
+This repository contains a collection of Python programs developed during my learning journey as an Automation Tester.
 It focuses on strengthening core programming skills and logical thinking required for building robust automation scripts.
 
 
